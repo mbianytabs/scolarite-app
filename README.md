@@ -2,6 +2,8 @@
 
 JavaFX desktop application that displays the training offer of a university (university, collegium, discipline, master, semesters, UEs) as a navigable tree. Built with the MVC architecture and the Composite pattern.
 
+The assignment is available in [docs/sujet.pdf](docs/sujet.pdf).
+
 ## Features
 
 - Navigation tree of all levels, with breadcrumb and clickable child cards
